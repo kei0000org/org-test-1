@@ -27,4 +27,3 @@ change from ktakio
 change from ktakio 2
 change from ktakio 3
 change from ktakio 4
-change from ktakio 5
